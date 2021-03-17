@@ -1,0 +1,31 @@
+root{
+    background-color: black;
+}
+
+.light-body{
+    width: 400px;
+    height: 700px;
+    background-color: black;
+    display: flex;
+}
+
+.light-red{
+    width: 100px;
+    height: 100px;
+    background: red;
+    border-radius: 50%
+}
+
+.light-yellow{
+    width: 100px;
+    height: 100px;
+    background: yellow;
+    border-radius: 50%
+}
+
+.light-green{
+    width: 100px;
+    height: 100px;
+    background: green;
+    border-radius: 50%
+}
